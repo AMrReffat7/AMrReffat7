@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AMrReffat7
 - 👀 I’m interested in exploring the intersection of technology and creativity and diving into the world of artificial intelligence.
-- 🌱 I’m currently learning advanced machine learning techniques and sharpening my skills in software development.
 - 💞️ I’m looking to collaborate on exciting projects that push the boundaries of what's possible, whether it's developing cutting-edge applications or contributing to open-source initiatives.
 - 📫 How to reach me: Feel free to connect with me here on GitHub or reach out via email at [amrreffat1@gmail.com].
 - 😄 Pronouns: He/Him
